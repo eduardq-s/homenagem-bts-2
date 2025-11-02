@@ -1,0 +1,7 @@
+# Se você tiver um domínio personalizado, crie um arquivo chamado CNAME (sem extensão)
+# e adicione seu domínio nele. Exemplo:
+
+# seu-dominio.com
+
+# Depois, configure o DNS do seu domínio para apontar para o GitHub Pages.
+# Consulte: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
